@@ -4,33 +4,39 @@
 # 🔍 Objetivos del proyecto:
 ### Extraer y transformar datos desde un archivo JSON.
 
-Limpiar y normalizar los datos utilizando Python y Pandas.
+### Limpiar y normalizar los datos utilizando Python y Pandas.
 
-Realizar un análisis exploratorio visual con Matplotlib y Seaborn.
+### Realizar un análisis exploratorio visual con Matplotlib y Seaborn.
 
-Identificar factores clave relacionados con el churn (tipo de contrato, métodos de pago, servicios, etc.).
+### Identificar factores clave relacionados con el churn (tipo de contrato, métodos de pago, servicios, etc.).
 
-Generar un informe final con conclusiones y recomendaciones basadas en datos reales.
+### Generar un informe final con conclusiones y recomendaciones basadas en datos reales.
 
 
-📁 Estructura del proyecto:
-📌 Extracción: Lectura del JSON y transformación en DataFrame.
+# 📁 Estructura del proyecto:
+### 📌 Extracción: Lectura del JSON y transformación en DataFrame.
 
-🔧 Transformación: Limpieza, normalización y manejo de datos faltantes.
+### 🔧 Transformación: Limpieza, normalización y manejo de datos faltantes.
 
-📊 Carga y análisis: Visualización de patrones y correlaciones.
+### 📊 Carga y análisis: Visualización de patrones y correlaciones.
 
-📄 Informe final: Conclusiones y recomendaciones accionables.
+### 📄 Informe final: Conclusiones y recomendaciones accionables.
 
-✅ Resultado
+# ✅ Resultado
 Se identificaron múltiples factores asociados con la evasión, incluyendo contratos mensuales, métodos de pago electrónicos y servicios incompletos. Las recomendaciones finales están orientadas a mejorar la retención de clientes y orientar futuros modelos predictivos.
 
-🛠️ Herramientas utilizadas:
-Python (Google Colab)
+# 🛠️ Herramientas utilizadas:
+
 
 <div align="center">
 	<code><a href="https://seaborn.pydata.org/index.html" target="_blank"><img width="50" src="img/seaborn.svg" alt="Seaborn" title="Seaborn"/></a></code>
 	<code><a href="https://www.python.org" target="_blank"><img width="50" src="img/pythonlogo.svg" alt="Python" title="Python"/></a></code>
 	<code><a href="https://pandas.pydata.org" target="_blank"><img width="50" src="img/Pandas.svg" alt="Pandas" title="Pandas"/></a></code>
 	<code><a href="https://matplotlib.org" target="_blank"><img width="50" src="img/Matplotlib.svg" alt="Matplotlib" title="Matplotlib"/></a></code>
+	<code><a href="https://colab.research.google.com/" target="_blank"><img width="50" src="img/Colab.svg" alt="GoogleColab" title="GoogleColab"/></a></code>
+	
  </div>
+
+# 👤 Acerca De 
+
+Soy Christian Estupiñan, un joven desarrollador Jr. comprometido con el aprendizaje continuo y con la meta de convertirme en desarrollador full-stack, emprendiendo una aventura nueva esta vez en la ciencia de datos.
