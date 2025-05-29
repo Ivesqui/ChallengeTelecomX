@@ -29,11 +29,11 @@ Se identificaron múltiples factores asociados con la evasión, incluyendo contr
 
 
 <div align="center">
-	<code><a href="https://seaborn.pydata.org/index.html" target="_blank"><img width="50" src="img/seaborn.svg" alt="Seaborn" title="Seaborn"/></a></code>
-	<code><a href="https://www.python.org" target="_blank"><img width="50" src="img/pythonlogo.svg" alt="Python" title="Python"/></a></code>
-	<code><a href="https://pandas.pydata.org" target="_blank"><img width="50" src="img/Pandas.svg" alt="Pandas" title="Pandas"/></a></code>
-	<code><a href="https://matplotlib.org" target="_blank"><img width="50" src="img/Matplotlib.svg" alt="Matplotlib" title="Matplotlib"/></a></code>
-	<code><a href="https://colab.research.google.com/" target="_blank"><img width="50" src="img/Colab.svg" alt="GoogleColab" title="GoogleColab"/></a></code>
+	<code><a href="https://seaborn.pydata.org/index.html" target="_blank"><img width="50" src="Img/seaborn.svg" alt="Seaborn" title="Seaborn"/></a></code>
+	<code><a href="https://www.python.org" target="_blank"><img width="50" src="Img/pythonlogo.svg" alt="Python" title="Python"/></a></code>
+	<code><a href="https://pandas.pydata.org" target="_blank"><img width="50" src="Img/Pandas.svg" alt="Pandas" title="Pandas"/></a></code>
+	<code><a href="https://matplotlib.org" target="_blank"><img width="50" src="Img/Matplotlib.svg" alt="Matplotlib" title="Matplotlib"/></a></code>
+	<code><a href="https://colab.research.google.com/" target="_blank"><img width="50" src="Img/Colab.svg" alt="GoogleColab" title="GoogleColab"/></a></code>
 	
  </div>
 
